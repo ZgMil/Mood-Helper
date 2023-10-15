@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Therapy App</string>
+    <string name="edit_group">Edit group</string>
+    <string name="delete_group">Delete group</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="save_btn_name">Save</string>
+    <string name="new_group">New group</string>
+    <string name="write_here">Write here!</string>
+    <string name="add">Add</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="ifeel">"I feel "</string>
+    <string name="what_are_you_feeling">"What are you feeling?"</string>
+    <string name="done">Done!</string>
+    <string name="dateformat">yyyy-MM-dd</string>
+    <string name="deletion_is_permanent">Deletion is permanent.</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="deleted_successfully">Deleted successfully!</string>
+    <string name="no">No</string>
+    <string name="dayformat">dd</string>
+    <string name="daymonthformat">dd.MM</string>
+    <string name="text">text</string>
+    <string name="address">address</string>
+    <string name="saved">Saved!</string>
+    <string name="id">id</string>
+    <string name="create_new_group">Create new group!</string>
+    <string name="add_cards_to_the_group">Add cards to the group!</string>
+    <string name="field_is_empty">Field is empty!</string>
+    <string name="yes">Yes</string>
+    <string name="submit">Submit</string>
+    <string name="concentration">Concentration</string>
+    <string name="balance">Balance</string>
+    <string name="self_esteem">Self-Esteem</string>
+    <string name="determination">Determination</string>
+    <string name="resources">Resources</string>
+    <string name="grounding">Grounding</string>
+    <string name="statements">Statements</string>
+    <string name="diary">Diary</string>
+    <string name="summary">SUMMARY</string>
+    <string name="no_data_yet">No data yet!</string>
+    <string-array name="parameters">
+        <item>Mood</item>
+        <item>Concentration</item>
+        <item>Determination</item>
+        <item>Balance</item>
+        <item>Self-Esteem</item>
+    </string-array>
+    <string-array name="longevity">
+        <item>Week</item>
+        <item>Month</item>
+    </string-array>
+    <string-array name="moodNames">
+        <item>Awful</item>
+        <item>Bad</item>
+        <item>Okay</item>
+        <item>Good</item>
+        <item>Great</item>
+    </string-array>
+    <string-array name="monitoringResponces">
+        <item>We\'re so sorry you feel this way! Would you like to do some Grounding?</item>
+        <item>Sorry you feel bad! Would you like to use the Diary?</item>
+        <item>Okay is better than bad! Would you like to try Statement cards?</item>
+        <item>Glad you feel good! Would you like to view stats?</item>
+        <item>Awesome! Would you like to write about it in a Diary?</item>
+    </string-array>
+    <string-array name="moodNamesSmall">
+        <item>awful</item>
+        <item>bad</item>
+        <item>okay</item>
+        <item>good</item>
+        <item>great</item>
+    </string-array>
+
+
+</resources>
