@@ -3,5 +3,5 @@
  Therapy aid, features including mood logging, diary, statement cards, and mental health resources.
 
 <p align="center">
-  <img src="Screenshot.png" height="250" title="hover text">
+  <img src="Screenshot.png" height="350" title="hover text">
 </p>
