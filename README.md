@@ -1,5 +1,7 @@
 # TherapyApp
- Android app made for university finals, logs mood, and a couple other additional features.
+ Android app made for university finals.
+ Therapy aid, features including mood logging, diary, statement cards, and mental health resources.
+
 <p align="center">
   <img src="Screenshot.png" height="250" title="hover text">
 </p>
