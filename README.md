@@ -1,4 +1,5 @@
 # TherapyApp
  Android app made for university finals, logs mood, and a couple other additional features.
-![Screenshot](Screenshot.png)
-
+<p align="center">
+  <img src="Screenshot.png" width="350" title="hover text">
+</p>
